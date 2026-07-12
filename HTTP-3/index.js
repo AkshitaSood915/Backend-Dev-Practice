@@ -18,7 +18,7 @@ const server = http.createServer((req, res) => {
             return res
               .writeHead(200)
               .end(
-                'Sure, Email: piyushgarg.dev@gmail.com and Phone: +91 99999 99999'
+                'Sure, Email: soodakshita797@gmail.com and Phone: +91 99999 99999'
               );
           case '/tweet':
             return res.writeHead(200).end('Tweet-1\nTweet-2');
