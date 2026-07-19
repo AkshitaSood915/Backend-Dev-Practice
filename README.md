@@ -1,4 +1,4 @@
-# 🚀 Backend Development Practice
+#  Backend Development Practice
 
 This repository contains my backend development practice while learning **Node.js**, **Express.js**, and related backend technologies.
 
@@ -6,7 +6,7 @@ The goal of this repository is to strengthen my understanding of backend concept
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Node.js Fundamentals
 - Modules (CommonJS)
@@ -29,7 +29,7 @@ The goal of this repository is to strengthen my understanding of backend concept
 - Authentication & Authorization (Upcoming)
 - JWT (Upcoming)
 
-## 🎯 Learning Goals
+##  Learning Goals
 
 - Build scalable backend applications
 - Understand Express.js middleware deeply
@@ -40,14 +40,14 @@ The goal of this repository is to strengthen my understanding of backend concept
 
 ---
 
-## 📌 Status
+##  Status
 
-🚧 Currently learning and continuously updating this repository with new backend concepts and mini projects.
+ Currently learning and continuously updating this repository with new backend concepts and mini projects.
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 Feel free to explore the repository and share suggestions or improvements.
 
-Happy Coding! 🚀
+Happy Coding! 
